@@ -5,7 +5,7 @@
 #### Hi, I'm Prashant — a passionate and self-driven Computer Science student and developer.
 I love building real-world applications, exploring new technologies, and continuously improving my skills.
 
-🎓 Currently a third-year student at AKGEC, applying knowledge to real-world projects while exploring the latest technologies.
+🎓 Currently student at AKGEC, applying knowledge to real-world projects while exploring the latest technologies.
 # 🛠 Tech Stack
 ##  Languages 
 [![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language)) 
